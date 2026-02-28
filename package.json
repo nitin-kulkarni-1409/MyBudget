@@ -1,0 +1,21 @@
+{
+  "name": "mybudget",
+  "version": "1.0.0",
+  "description": "This is for personal budgeting and expense tracking. Main goal is to spend efficiently and save more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitin-kulkarni-1409/MyBudget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nitin-kulkarni-1409/MyBudget/issues"
+  },
+  "homepage": "https://github.com/nitin-kulkarni-1409/MyBudget#readme"
+}
